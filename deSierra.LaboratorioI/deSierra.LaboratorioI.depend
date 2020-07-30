@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1596148204 source:c:\users\nico\desktop\covid\desierra.laboratorioi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596148204 c:\users\nico\desktop\covid\desierra.laboratorioi\linkedlist.h
+
+1596150963 source:c:\users\nico\desktop\covid\desierra.laboratorioi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+	"controller.h"
+	"validaciones.h"
+	"parser.h"
+	"informes.h"
+
+1596150950 c:\users\nico\desktop\covid\desierra.laboratorioi\pais.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1596147452 c:\users\nico\desktop\covid\desierra.laboratorioi\controller.h
+	"LinkedList.h"
+
+1593895489 c:\users\nico\desktop\covid\desierra.laboratorioi\validaciones.h
+
+1596150355 c:\users\nico\desktop\covid\desierra.laboratorioi\parser.h
+	"LinkedList.h"
+
+1596150950 source:c:\users\nico\desktop\covid\desierra.laboratorioi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"pais.h"
+	"controller.h"
+	"validaciones.h"
+	"parser.h"
+	"informes.h"
+
+1596150355 source:c:\users\nico\desktop\covid\desierra.laboratorioi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1593895489 source:c:\users\nico\desktop\covid\desierra.laboratorioi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1596151060 source:c:\users\nico\desktop\covid\desierra.laboratorioi\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pais.h"
+	"validaciones.h"
+	"Controller.h"
+	"LinkedList.h"
+	"informes.h"
+
+1596152028 source:c:\users\nico\desktop\covid\desierra.laboratorioi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pais.h"
+	"validaciones.h"
+	"Controller.h"
+	"informes.h"
+
+1596150950 c:\users\nico\desktop\covid\desierra.laboratorioi\informes.h
+	"LinkedList.h"
+
